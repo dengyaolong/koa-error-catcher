@@ -7,11 +7,12 @@ npm install koa-error-catcher
 ```
 
 # Usage
+```
 const Koa = require('koa');
 const app = new Koa();
 const errorCatcher = require('koa-error-catcher');
 
-// response
+// error catcher 
 app.use(errorCatcher);
 
 app.use(ctx => {
@@ -23,3 +24,4 @@ app.listen(3030);
 
 //  curl -v 127.0.0.1:3030
 //  response 500 & body is {"message":"throw an error"}
+```

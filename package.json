@@ -1,6 +1,6 @@
 {
   "name": "koa-error-catcher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a koa2 middleware to catch error and set response automatically",
   "main": "index.js",
   "scripts": {
