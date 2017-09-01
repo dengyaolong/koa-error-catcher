@@ -13,7 +13,7 @@ A koa2 middleware to catch error and set response
 
 # Install
 ```
-npm install koa-error-catcher
+npm install koa-error-catcher --save
 ```
 
 # Usage
