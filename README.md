@@ -1,4 +1,6 @@
 # koa-error-catcher
+[![Build Status](https://travis-ci.org/dengyaolong/koa-error-catcher.png)](https://travis-ci.org/dengyaolong/koa-error-catcher)
+
 a koa2 middleware to catch error and set response
 
 # Install
