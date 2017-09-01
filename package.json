@@ -1,0 +1,29 @@
+{
+  "name": "koa-error-catcher",
+  "version": "1.0.1",
+  "description": "a koa2 middleware to catch error and set response automatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dengyaolong/koa-error-catcher.git"
+  },
+  "keywords": [
+    "error",
+    "catcher"
+  ],
+  "author": "dengyaolong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dengyaolong/koa-error-catcher/issues"
+  },
+  "homepage": "https://github.com/dengyaolong/koa-error-catcher#readme",
+  "dependencies": {
+    "debug": "^3.0.1"
+  },
+  "engines": {
+    "node": ">= 7.6.0"
+  }
+}
