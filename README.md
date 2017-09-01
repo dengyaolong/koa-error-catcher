@@ -1,7 +1,15 @@
 # koa-error-catcher
 [![Build Status](https://travis-ci.org/dengyaolong/koa-error-catcher.png)](https://travis-ci.org/dengyaolong/koa-error-catcher)
+[![NPM version][npm-image]][npm-url]
+[![npm download][download-image]][download-url]
 
-a koa2 middleware to catch error and set response
+[npm-image]: https://img.shields.io/npm/v/koa-error-catcher.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/koa-error-catcher]
+[download-image]: https://img.shields.io/npm/dm/koa-error-catcher.svg?style=flat-square
+[download-url]: https://npmjs.org/package/koa-error-catcher
+
+
+A koa2 middleware to catch error and set response
 
 # Install
 ```
