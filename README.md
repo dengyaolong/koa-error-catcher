@@ -1,6 +1,11 @@
 # koa-error-catcher
 a koa2 middleware to catch error and set response
 
+# Install
+```
+npm install koa-error-catcher
+```
+
 # Usage
 const Koa = require('koa');
 const app = new Koa();
